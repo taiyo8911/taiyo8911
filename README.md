@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **taiyo8911/taiyo8911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
