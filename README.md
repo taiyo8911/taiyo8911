@@ -20,4 +20,11 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taiyo8911&theme=vue-dark&show&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-## Link
+## Links
+
+### Blogs
+* [日曜エンジニアのプログラミング](https://taiyosite.com/ "Qiita Home")
+
+### Accounts
+
+### Apps
