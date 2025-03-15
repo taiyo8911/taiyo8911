@@ -20,6 +20,8 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taiyo8911&theme=vue-dark&show&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,wordpress,react,dart,flutter,java,py,swift,vscode)](https://skillicons.dev)
 
 ## Blogs
 * [日曜エンジニアのプログラミング：https://taiyosite.com/](https://taiyosite.com/)
@@ -38,5 +40,3 @@ Here are some ideas to get you started:
 * [数当てゲームアプリ：https://apple.co/41Q47ne](https://apple.co/41Q47ne)
 * [早押しゲームアプリ：https://apple.co/3XTBp3w](https://apple.co/3XTBp3w)
 * [リバーシゲームアプリ：https://apple.co/4bpbPZS](https://apple.co/4bpbPZS)
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
