@@ -24,21 +24,21 @@ Here are some ideas to get you started:
 
 ### Blogs
 * [日曜エンジニアのプログラミング：https://taiyosite.com/](https://taiyosite.com/)
-* [猫でもわかるFlutter大辞典:https://taiyosite.com/flutter-cyclopedia/](https://taiyosite.com/flutter-cyclopedia/)
-* [海外で食べたもの図鑑:https://taiyosun.hatenablog.com/](https://taiyosun.hatenablog.com/)
-* [tkBlog:https://tkblog-psi.vercel.app/](https://tkblog-psi.vercel.app/)
-* [ポートフォリオ集:https://taiyo8911.cloudfree.jp/](https://taiyo8911.cloudfree.jp/)
+* [猫でもわかるFlutter大辞典；https://taiyosite.com/flutter-cyclopedia/](https://taiyosite.com/flutter-cyclopedia/)
+* [海外で食べたもの図鑑；https://taiyosun.hatenablog.com/](https://taiyosun.hatenablog.com/)
+* [tkBlog:https；//tkblog-psi.vercel.app/](https://tkblog-psi.vercel.app/)
+* [ポートフォリオ集；https://taiyo8911.cloudfree.jp/](https://taiyo8911.cloudfree.jp/)
 
 ### Accounts
-* [GitHub:https://github.com/taiyo8911](https://github.com/taiyo8911)
-* [Zenn:https://zenn.dev/taiyok](https://zenn.dev/taiyok)
-* [CodePen:https://codepen.io/maclove1/](https://codepen.io/maclove1/)
+* [GitHub；https://github.com/taiyo8911](https://github.com/taiyo8911)
+* [Zenn；https://zenn.dev/taiyok](https://zenn.dev/taiyok)
+* [CodePen；https://codepen.io/maclove1/](https://codepen.io/maclove1/)
 
 
 ### Apps
 #### iOS
-* [禁煙記録アプリ:https://apple.co/4bmb3Nh](https://apple.co/4bmb3Nh)
-* [時計付スケジュールアプリ:https://apple.co/3Q4Kp1v](https://apple.co/3Q4Kp1v)
-* [数当てゲームアプリ:https://apple.co/41Q47ne](https://apple.co/41Q47ne)
-* [早押しゲームアプリ:https://apple.co/3XTBp3w](https://apple.co/3XTBp3w)
-* [リバーシゲームアプリ:https://apple.co/4bpbPZS](https://apple.co/4bpbPZS)
+* [禁煙記録アプリ；https://apple.co/4bmb3Nh](https://apple.co/4bmb3Nh)
+* [時計付スケジュールアプリ；https://apple.co/3Q4Kp1v](https://apple.co/3Q4Kp1v)
+* [数当てゲームアプリ；https://apple.co/41Q47ne](https://apple.co/41Q47ne)
+* [早押しゲームアプリ；https://apple.co/3XTBp3w](https://apple.co/3XTBp3w)
+* [リバーシゲームアプリ；https://apple.co/4bpbPZS](https://apple.co/4bpbPZS)
