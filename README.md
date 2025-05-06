@@ -35,8 +35,3 @@ Here are some ideas to get you started:
 
 ## App Store
 * [デベロッパサイト](https://apple.co/4m14kNx)
-* [禁煙記録アプリ：https://apple.co/4bmb3Nh](https://apple.co/4bmb3Nh)
-* [時計付スケジュールアプリ：https://apple.co/3Q4Kp1v](https://apple.co/3Q4Kp1v)
-* [数当てゲームアプリ：https://apple.co/41Q47ne](https://apple.co/41Q47ne)
-* [早押しゲームアプリ：https://apple.co/3XTBp3w](https://apple.co/3XTBp3w)
-* [リバーシゲームアプリ：https://apple.co/4bpbPZS](https://apple.co/4bpbPZS)
