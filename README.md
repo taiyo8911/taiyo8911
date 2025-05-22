@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,wordpress,react,dart,flutter,java,py,swift,vscode)](https://skillicons.dev)
 
 ## Blogs
-* [日曜エンジニアのプログラミング：https://taiyosite.com/](https://taiyosite.com/)
-* [猫でもわかるFlutter大辞典：https://taiyosite.com/flutter-cyclopedia/](https://taiyosite.com/flutter-cyclopedia/)
+* [日曜エンジニアのソフト開発：https://blog.sol-se.com/](https://blog.sol-se.com/])
 * [海外で食べたもの図鑑：https://taiyosun.hatenablog.com/](https://taiyosun.hatenablog.com/)
 
 ## Accounts
