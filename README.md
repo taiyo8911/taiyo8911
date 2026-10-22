@@ -20,7 +20,7 @@ iOSアプリやWebアプリを開発しています。
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,wordpress,java,py,react,dart,flutter,swift,vscode)](https://skillicons.dev)
 
-### Apps
+### Works
 - [App Store（公開中のiOSアプリ）](https://apple.co/4m14kNx)
 
 ### Github Stats
@@ -28,7 +28,7 @@ iOSアプリやWebアプリを開発しています。
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=taiyo8911&theme=vue-dark&show" />
 </a>
 
-### Skills
+### Language
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taiyo8911&theme=vue-dark&show&layout=compact&langs_count=8&card_width=320" />
 </a>
