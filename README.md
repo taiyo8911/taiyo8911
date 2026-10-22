@@ -23,7 +23,7 @@ iOSアプリやWebアプリを開発しています。
 ### Apps
 - [App Store（公開中のiOSアプリ）](https://apple.co/4m14kNx)
 
-### Works
+### Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=taiyo8911&theme=vue-dark&show" />
 </a>
