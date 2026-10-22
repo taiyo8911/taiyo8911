@@ -1,6 +1,5 @@
 <!--
 **taiyo8911/taiyo8911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,16 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=taiyo8911&theme=vue-dark&show" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taiyo8911&theme=vue-dark&show&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 ## SolSE
-
-iOSアプリやWebアプリを個人で開発しています。
+iOSアプリやWebアプリを開発しています。
 
 🔗 **[taiyo8911.github.io](https://taiyo8911.github.io/)** — アプリ・記事・各種リンクはこちら
 
@@ -31,3 +22,13 @@ iOSアプリやWebアプリを個人で開発しています。
 
 ### Apps
 - [App Store（公開中のiOSアプリ）](https://apple.co/4m14kNx)
+
+### Works
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=taiyo8911&theme=vue-dark&show" />
+</a>
+
+### Skills
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taiyo8911&theme=vue-dark&show&layout=compact&langs_count=8&card_width=320" />
+</a>
