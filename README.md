@@ -24,8 +24,9 @@ iOSアプリやWebアプリを開発しています。
 
 ### GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=taiyo8911&theme=vue-dark&show" />
+    <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=taiyo8911&theme=radical/>
 </a>
+
 
 ### Language
 <a href="https://github.com/stats-organization/github-stats-extended">
