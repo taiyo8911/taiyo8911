@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 
 ## SolSE
 iOSアプリやWebアプリを開発しています。
-
-🔗 **[taiyo8911.github.io](https://taiyo8911.github.io/)** — アプリ・記事・各種リンクはこちら
+🔗 **[ホームページ](https://taiyo8911.github.io/)** — ホームページはこちら
 
 ### Skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,wordpress,java,py,react,dart,flutter,swift,vscode)
