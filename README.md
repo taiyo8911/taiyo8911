@@ -23,10 +23,7 @@ iOSアプリやWebアプリを開発しています。
 - [App Store（公開中のiOSアプリ）](https://apple.co/4m14kNx)
 
 ### GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=taiyo8911&theme=radical/>
-</a>
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
 ### Language
 <a href="https://github.com/stats-organization/github-stats-extended">
