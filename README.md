@@ -32,10 +32,3 @@ iOSアプリやWebアプリを開発しています。
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taiyo8911&theme=vue-dark&show&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-
-### Github Stats
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=taiyo8911&theme=vue-dark" />
-
-### Language
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taiyo8911&theme=vue-dark&layout=compact&langs_count=8&card_width=320" />
